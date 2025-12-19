@@ -19,3 +19,4 @@ The goal of this project is to demonstrate vulnerabilities in ECDSA implementati
 * **Lise Makarenko**
 * ![Timing Attack Chart](main/graph.png)
 https://drive.google.com/file/d/16PJQEX6-OL2qbFhcmMzi-Z-ZlU0Lw_Fh/view?usp=sharing
+https://drive.google.com/file/d/1rM-7fLQCvKx20N95-8woONjG7VFp_n8J/view?usp=sharing
