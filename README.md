@@ -17,4 +17,4 @@ The goal of this project is to demonstrate vulnerabilities in ECDSA implementati
 ## Authors 
 * **Yuliy Ostashkov**
 * **Lise Makarenko**
-* ![Timing Attack Chart](images/graph.png)
+* ![Timing Attack Chart](main/graph.png)
